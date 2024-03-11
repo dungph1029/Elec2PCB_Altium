@@ -1,0 +1,10 @@
+Output: Orcad/PCB2 Netlist
+Type  : OrCadPCB2Netlist
+From  : Project [Free Documents]
+   Generated File[H bridge circuit.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:12:26 AM On 2015-03-20
