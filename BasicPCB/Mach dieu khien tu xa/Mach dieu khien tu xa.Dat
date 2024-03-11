@@ -1,0 +1,48 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~86|Field=Description~String~Description~148|Field=Designator~String~Designator~129|Field=Value~String~Value~85|Field=Quantity~Integer~Quantity~66|Field=digikey~String~digikey~119|Field=datasheet~String~datasheet~117|Field=Footprint~String~Footprint~100|Field=Pins~Integer~Pins~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Mach dieu khien tu xa.PrjPcb|ReportField=ProjectFullPath~C:\Users\lpson\Google Drive\elec2pcb\khoa hoc Altium v2\Basic PCB\document\Mach dieu khien tu xa\Mach dieu khien tu xa.PrjPcb|ReportField=Title~Bill of Materials For Project [Mach dieu khien tu xa.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~72|ReportField=ReportTime~10:54:44 PM|ReportField=ReportDate~2016-10-09|ReportField=ReportDateTime~2016-10-09 10:54:44 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~776 Ton Duc Thang|ReportField=Address2~Lien Chieu, Da Nang|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Tran Tuan|ReportField=CheckedBy~|ReportField=CompanyName~Vnelektronics Co.,Ltd|ReportField=CurrentDate~2016-10-09|ReportField=CurrentTime~10:45:32 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\lpson\Google Drive\elec2pcb\khoa hoc Altium v2\Basic PCB\document\Mach dieu khien tu xa\Mach dieu khien tu xa.SchDoc|ReportField=DocumentName~Mach dieu khien tu xa.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Tran Tuan|ReportField=Engineer~Tran Tuan|ReportField=ImagePath~|ReportField=ModifiedDate~2016-10-09|ReportField=Organization~Vnelektronics Co.,Ltd|ReportField=ProjectName~Mach dieu khien tu xa.PrjPcb|ReportField=Revision~1.0|ReportField=Rule~|ReportField=SheetNumber~01|ReportField=SheetTotal~02|ReportField=Time~|ReportField=Title~UM18 - Distance Measurement|ReportField=DataSourceFileName~Mach dieu khien tu xa.PrjPcb|ReportField=DataSourceFullPath~C:\Users\lpson\Google Drive\elec2pcb\khoa hoc Altium v2\Basic PCB\document\Mach dieu khien tu xa\Mach dieu khien tu xa.PrjPcb
+1|10uF/35V|Tantalum Capacitor|C11, C18||2|http://www.digikey.com/product-detail/en/T491C106K025AT/399-3734-1-ND/819059|http://www.kemet.com/Lists/ProductCatalog/Attachments/254/KEM_T2005_T491.pdf|CAP_TANTA_10UF_35V|2
+2|10uF/16V|Tantalum Capacitor|C5, C12, C19||3|http://www.digikey.com/product-detail/en/T491A106M016AT/399-3687-1-ND/819012|http://www.kemet.com/Lists/ProductCatalog/Attachments/254/KEM_T2005_T491.pdf|CAP_TANTA_10UF_16V|2
+3|PRTR5V0U2X|ESD protection diode|U3||1|http://www.digikey.com/product-detail/en/PRTR5V0U2X,215/568-4140-1-ND/1589981|http://www.nxp.com/documents/data_sheet/PRTR5V0U2X.pdf|PRTR5V0U2X|4
+4|2N2222|TRANS GP SS NPN LP 40V TO92|Q2, Q3|P2N2222AG|2|http://www.digikey.com/product-detail/en/P2N2222AG/P2N2222AGOS-ND/920244||2N2222|3
+5|MSP430G2553|MSP430G2553 (28 pins)|U1||1|http://www.digikey.com/product-detail/en/MSP430G2553IPW28R/296-28431-1-ND/2638890|http://www.ti.com/lit/ds/symlink/msp430g2553.pdf|MSP430G2253IPW28R|28
+6|Resistor 1/4W|Resistor 1/4W|R10, R11|200K|2|http://www.digikey.com/product-detail/en/MFP-25BRD52-100K/100KADCT-ND/2059112|http://www.yageo.com/documents/recent/General%20Type_MFP.pdf|RESC2012(0805)|2
+7|LM7818|Linear Regulator|IC6|LM7818|1|http://www.digikey.com/product-detail/en/LM7818CT/LM7818CT-ND/1923054|http://www.fairchildsemi.com/ds/LM/LM7805.pdf|LM7805|3
+8|LM7812|Linear Regulator|IC4|LM7812|1|http://www.digikey.com/product-detail/en/LM7812ACT/LM7812ACT-ND/1923050|http://www.fairchildsemi.com/ds/LM/LM7805.pdf|LM7805|3
+9|LM7805|Linear Regulator|IC3|LM7805|1|http://www.digikey.com/product-detail/en/LM7805CT/LM7805CT-ND/458698|http://www.fairchildsemi.com/ds/LM/LM7805.pdf|LM7805|3
+10|LM1086 (3.3V)|Linear Regulator|IC5, IC7|LM1086 (3.3V)|2|http://www.digikey.com/product-detail/en/LM1086CSX-3.3%2FNOPB/LM1086CSX-3.3%2FNOPBCT-ND/3440095|http://www.ti.com/lit/ds/symlink/lm1086.pdf|LM1086|3
+11|KSA1013|PNP 600mW, ECB|Q1|KSA1013|1|http://www.digikey.com/product-detail/en/KSA1013YBU/KSA1013YBUFS-ND/1048937|http://www.fairchildsemi.com/ds/KS/KSA1013.pdf|KSA1013|3
+12|KBU1010|10A glass passivated bridge rectifier|D1||1|http://www.digikey.com/product-detail/en/KBU1010-G/641-1359-ND/2074824|http://www.comchiptech.com/cms/UserFiles/KBU10005-G%20Thru.%20KBU1010-G%20Series%20RevA.pdf|KBU1010G|4
+13|ADS1115|Analog to Digital Converter|U2||1|http://www.digikey.com/product-detail/en/ADS1115IDGST/296-24934-1-ND/2123298|http://www.ti.com/lit/ds/symlink/ads1113.pdf|ADS1115|10
+14|100nF/16V|Cap np 104 => 105pF|C4, C7, C15, C22|0.1uF|4|||Tu gom 104|2
+15|100nF/25V|Cap np 104 => 105pF|C14, C21|0.1uF|2|||Tu gom 104|2
+16|100nF/50V|Cap np 104 => 105pF|C13, C20|0.1uF|2|||Tu gom 104|2
+17|10uF/16V|Aluminium Capacitor|C9||1|||CAP_10UF_16V|2
+18|10uF/16V|Cap P  0,1uF < 22uF , 16 - 50V|C2|10uF/50V|1|||C0805|2
+19|10uF/50V|Aluminium Capacitor|C10, C17||2|||C_FC_10UF_50V|2
+20|12Mhz|Crystal For all Crystal 2pin.|X1|4Mhz|1|||CRYSTAL|2
+21|18VAC-3A|Header 2 (Green)|HD9|Header 2|1|||DOMINO2_GREEN|2
+22|1N4007|Diode 1A|D2|1N4007|1|||1N4007|2
+23|1nF|Cap np 104 => 105pF|C6|1nF|1|||C0805|2
+24|220VAC|Header 2 (Green)|HD10|Header 2|1|||DOMINO2_GREEN|2
+25|22pF|0805-SMD Capacitor|C1, C3|22pF|2|||C0603|2
+26|3300uF/50V|Cap P  0,1uF < 22uF , 16 - 50V|C16|10uF/50V|1|||CAP_3300UF_50V|2
+27|Cap Pol1|Polarized Capacitor (Radial)|C8|4.7uF/16V|1|||C0805|2
+28|Display Port 1|Header 12|HD4|Header 5|1|||CON12|12
+29|Display Port 2|Header 12|HD5|Header 5|1|||CON12|12
+30|Domino|Header 2 (Green)|HD8|Header 2|1|||DOMINO2_GREEN|2
+31|Fuse/2.5A|Fuse|F1|Fuse|1|||FUSE2_5A|2
+32|GREEN|LED Single colour Green and Red|LED2|LED 3 ly Single Colour|1|||LED3R|2
+33|LED|LED Single colour Green and Red|LED3|LED 3 ly Single Colour|1|||LED3R|2
+34|Power|Header 3 (Green)|HD2|Header 3|1|||CON3|3
+35|RED|LED Single colour Green and Red|LED1|LED 3 ly Single Colour|1|||LED3R|2
+36|Relay 10A/5V|Relay SPDT,10A - 12VDC 5 Pin|RL1|Relay SPDT, 10A, 12V|1|||RL_10A_5V|5
+37|Res2|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R12|1K, 1K, 47K, 10K, 10K, 10K, 330R, 10K, 0R, 0R|10|||RESC2012(0805)|2
+38|Res2|Resistor|R13, R14|220R/1W|2|||CFR1WS|2
+39|Res2|Resistor|R15|3R/2W|1|||R2WD|2
+40|Res2|Resistor|R16, R17|2K2, 330R|2|||RES 1/4W CFR25|2
+41|RESET|Switch button 2 pin|SW1|SW chip 2 pin|1|||BUTTON 2PIN TRON|2
+42|Speaker|Speaker Chip|SP1|Speaker Chip|1|||SPEAKER|2
+43|SpyBiWire|Header 4 (Green)|HD1|Header 4|1|||Header_4|4
+44|TSOP1838||IC1, IC2||2|||TSOP1838|3
+45|UART|Header 2 (Green)|HD3|Header 2|1|||Header_2|2
+46|UM-18 LEFT|Header 3 (Green)|HD6|Header 3|1|||CON3|3
+47|UM-18 RIGHT|Header 3 (Green)|HD7|Header 3|1|||CON3|3
