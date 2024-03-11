@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=D1-4
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=GND Pin=IC2-1
+Removed Pin From Net: NetName=3V3 Pin=IC2-2
+Change Component Footprint: Designator=IC1 Old Footprint=LM7805 New Footprint=AMS1117-3.3V
+Change Component Comment : Designator=JP3 Old Comment=JP2 New Comment=5VDC 2A
+Change Component Comment : Designator=IC1 Old Comment=LM7805 New Comment=AMS1117-3.3V
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=3V3 Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=JP3-1
+Added Pin To Net: NetName=5V Pin=JP3-2
+Added Room: Name=KhoaSoDienTu

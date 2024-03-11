@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Mach dieu khien tu xa.PcbDoc   7/4/2023  10:44:25 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Mach dieu khien tu xa.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             31        PTH        12.27inch (311.62mm)
+T2      16mil (0.4mm)                                             Round             183       PTH        53.98inch (1371.12mm)
+T3      32mil (0.8mm)                                             Round             36        PTH        18.17inch (461.51mm)
+T4      39mil (1mm)                                               Round             66        PTH        19.65inch (499.23mm)
+T5      51mil (1.3mm)                                             Round             19        PTH        13.61inch (345.81mm)
+T6      63mil (1.6mm)                                             Round             5         PTH        8.55inch (217.22mm)
+T7      126mil (3.2mm)                                            Round             4         PTH        16.86inch (428.25mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              344
+
+Total Processing Time (hh:mm:ss) : 00:00:01

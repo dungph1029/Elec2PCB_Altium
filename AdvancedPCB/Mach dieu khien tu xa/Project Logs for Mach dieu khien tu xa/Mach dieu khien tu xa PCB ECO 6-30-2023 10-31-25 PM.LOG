@@ -1,0 +1,278 @@
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C0603"; UniqueID = "\YPPPFZBJ" ("\YPPPFZBJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3" ("C3"); Footprint = "C0603"; UniqueID = "\ZXKAUSTY" ("\ZXKAUSTY")
+Change component parameters (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "Tu gom 104"; UniqueID = "\VABHYAAK" ("\VABHYAAK")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "C0805"; UniqueID = "\WEKSKOLK" ("\WEKSKOLK")
+Change component parameters (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "Tu gom 104"; UniqueID = "\FQOVWRUD" ("\FQOVWRUD")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "Tu gom 104"; UniqueID = "\SBBQSLPQ" ("\SBBQSLPQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "Tu gom 104"; UniqueID = "\TCGIXRBZ" ("\TCGIXRBZ")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15" ("C15"); Footprint = "Tu gom 104"; UniqueID = "\UDTVYEUJ" ("\UDTVYEUJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "Tu gom 104"; UniqueID = "\HXGAZREM" ("\HXGAZREM")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21" ("C21"); Footprint = "Tu gom 104"; UniqueID = "\CJGORQMH" ("\CJGORQMH")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22" ("C22"); Footprint = "Tu gom 104"; UniqueID = "\KGAGVLBB" ("\KGAGVLBB")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "1N4007"; UniqueID = "\EMRPLUJU" ("\EMRPLUJU")
+Change component parameters (AddParameter): Name = "Value"; Value = "1N4007"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD1" ("HD1"); Footprint = "Header_4"; UniqueID = "\MXUATDVI" ("\MXUATDVI")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 4"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD2" ("HD2"); Footprint = "CON3"; UniqueID = "\RXCNYCXE" ("\RXCNYCXE")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD3" ("HD3"); Footprint = "Header_2"; UniqueID = "\BAAJYKJN" ("\BAAJYKJN")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD4" ("HD4"); Footprint = "CON12"; UniqueID = "\CRENSLGD" ("\CRENSLGD")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD5" ("HD5"); Footprint = "CON12"; UniqueID = "\SQHUBLAJ" ("\SQHUBLAJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD6" ("HD6"); Footprint = "CON3"; UniqueID = "\XQCGMDIY" ("\XQCGMDIY")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD7" ("HD7"); Footprint = "CON3"; UniqueID = "\AFQPQGPS" ("\AFQPQGPS")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD8" ("HD8"); Footprint = "DOMINO2_GREEN"; UniqueID = "\WEMSXJKS" ("\WEMSXJKS")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD9" ("HD9"); Footprint = "DOMINO2_GREEN"; UniqueID = "\UOCZPGRJ" ("\UOCZPGRJ")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD10" ("HD10"); Footprint = "DOMINO2_GREEN"; UniqueID = "\ESTFAOUL" ("\ESTFAOUL")
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED1" ("LED1"); Footprint = "LED3R"; UniqueID = "\LUOIEUMS" ("\LUOIEUMS")
+Change component parameters (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED2" ("LED2"); Footprint = "LED3R"; UniqueID = "\NAOYJWYY" ("\NAOYJWYY")
+Change component parameters (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED3" ("LED3"); Footprint = "LED3R"; UniqueID = "\SBLTWPXX" ("\SBLTWPXX")
+Change component parameters (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RL1" ("RL1"); Footprint = "RL_10A_5V"; UniqueID = "\EOIRNXCQ" ("\EOIRNXCQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SP1" ("SP1"); Footprint = "SPEAKER"; UniqueID = "\DOZTLGLI" ("\DOZTLGLI")
+Change component parameters (AddParameter): Name = "Value"; Value = "Speaker Chip"; VariantName = "[No Variations]"
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "BUTTON 2PIN TRON"; UniqueID = "\SYQJEFCK" ("\SYQJEFCK")
+Change component parameters (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X1" ("X1"); Footprint = "CRYSTAL"; UniqueID = "\AWBSAGOI" ("\AWBSAGOI")
+Change component parameters (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "KBU1010G"; UniqueID = "\QFBDDVBY" ("\QFBDDVBY")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.comchiptech.com/cms/UserFiles/KBU10005-G%20Thru.%20KBU1010-G%20Series%20RevA.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey"; Value = "http://www.digikey.com/product-detail/en/KBU1010-G/641-1359-ND/2074824"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "MSP430G2253IPW28R"; UniqueID = "\ZGBIHXPA" ("\ZGBIHXPA")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "http://www.ti.com/lit/ds/symlink/msp430g2553.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey"; Value = "http://www.digikey.com/product-detail/en/MSP430G2553IPW28R/296-28431-1-ND/2638890"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "ADS1115"; UniqueID = "\NUHCQJYV" ("\NUHCQJYV")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "http://www.ti.com/lit/ds/symlink/ads1113.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey"; Value = "http://www.digikey.com/product-detail/en/ADS1115IDGST/296-24934-1-ND/2123298"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "PRTR5V0U2X"; UniqueID = "\UBAWLRFZ" ("\UBAWLRFZ")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.nxp.com/documents/data_sheet/PRTR5V0U2X.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/PRTR5V0U2X,215/568-4140-1-ND/1589981"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1" ("F1"); Footprint = "FUSE2_5A"; UniqueID = "\MJMANTHB" ("\MJMANTHB")
+Change component parameters (AddParameter): Name = "Designed by"; Value = "VanDungEvn"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Fuse"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "2N2222"; UniqueID = "\VYGHDKJY" ("\VYGHDKJY")
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/P2N2222AG/P2N2222AGOS-ND/920244"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "P2N2222AG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("Q3"); Footprint = "2N2222"; UniqueID = "\KWPFRYDM" ("\KWPFRYDM")
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/P2N2222AG/P2N2222AGOS-ND/920244"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "P2N2222AG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CAP_TANTA_10UF_16V"; UniqueID = "\XIAXIKTH" ("\XIAXIKTH")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/254/KEM_T2005_T491.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/T491A106M016AT/399-3687-1-ND/819012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Tantalum"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAP_TANTA_10UF_35V"; UniqueID = "\PORKRNFA" ("\PORKRNFA")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/254/KEM_T2005_T491.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/T491C106K025AT/399-3734-1-ND/819059"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Tantalum"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAP_TANTA_10UF_16V"; UniqueID = "\GEBNEQTX" ("\GEBNEQTX")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/254/KEM_T2005_T491.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/T491A106M016AT/399-3687-1-ND/819012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Tantalum"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAP_TANTA_10UF_35V"; UniqueID = "\HHAKMLUU" ("\HHAKMLUU")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/254/KEM_T2005_T491.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/T491C106K025AT/399-3734-1-ND/819059"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Tantalum"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19" ("C19"); Footprint = "CAP_TANTA_10UF_16V"; UniqueID = "\TXERHFQI" ("\TXERHFQI")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.kemet.com/Lists/ProductCatalog/Attachments/254/KEM_T2005_T491.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/T491A106M016AT/399-3687-1-ND/819012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Tantalum"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC3" ("IC3"); Footprint = "LM7805"; UniqueID = "\TAJHAOYL" ("\TAJHAOYL")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.fairchildsemi.com/ds/LM/LM7805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/LM7805CT/LM7805CT-ND/458698"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC5" ("IC5"); Footprint = "LM1086"; UniqueID = "\OYJJZDEI" ("\OYJJZDEI")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.ti.com/lit/ds/symlink/lm1086.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/LM1086CSX-3.3%2FNOPB/LM1086CSX-3.3%2FNOPBCT-ND/3440095"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LM1086 (3.3V)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC6" ("IC6"); Footprint = "LM7805"; UniqueID = "\ZHFZWDOX" ("\ZHFZWDOX")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.fairchildsemi.com/ds/LM/LM7805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/LM7818CT/LM7818CT-ND/1923054"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LM7818"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC7" ("IC7"); Footprint = "LM1086"; UniqueID = "\GRUDISSL" ("\GRUDISSL")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.ti.com/lit/ds/symlink/lm1086.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/LM1086CSX-3.3%2FNOPB/LM1086CSX-3.3%2FNOPBCT-ND/3440095"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LM1086 (3.3V)"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "RESC2012(0805)"; UniqueID = "\JERTSEHE" ("\JERTSEHE")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.yageo.com/documents/recent/General%20Type_MFP.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/MFP-25BRD52-100K/100KADCT-ND/2059112"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "RESC2012(0805)"; UniqueID = "\NUPNDOOG" ("\NUPNDOOG")
+Change component parameters (AddParameter): Name = "datasheet"; Value = "http://www.yageo.com/documents/recent/General%20Type_MFP.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "digikey"; Value = "http://www.digikey.com/product-detail/en/MFP-25BRD52-100K/100KADCT-ND/2059112"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "C_FC_10UF_50V"; UniqueID = "\JLDNQYWV" ("\JLDNQYWV")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "10 => 220uF/6,3V/10V - 10uF => 100uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "0,1uF => 33uF/50V - 10uF => 22uF/63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "0,47uF => 10uF/100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC4" ("IC4"); Footprint = "LM7805"; UniqueID = "\VPKPWHJC" ("\VPKPWHJC")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "http://www.fairchildsemi.com/ds/LM/LM7805.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey"; Value = "http://www.digikey.com/product-detail/en/LM7812ACT/LM7812ACT-ND/1923050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LM7812"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "KSA1013"; UniqueID = "\VCWSHBJC" ("\VCWSHBJC")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "http://www.fairchildsemi.com/ds/KS/KSA1013.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey"; Value = "http://www.digikey.com/product-detail/en/KSA1013YBU/KSA1013YBUFS-ND/1048937"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "KSA1013"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C0805"; UniqueID = "\UNSHMIPL" ("\UNSHMIPL")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "10 => 220uF/6,3V/10V - 10uF => 100uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "0,1uF => 33uF/50V - 10uF => 22uF/63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "0,47uF => 10uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16" ("C16"); Footprint = "CAP_3300UF_50V"; UniqueID = "\XQLSYQXL" ("\XQLSYQXL")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "10 => 220uF/6,3V/10V - 10uF => 100uF/16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "0,1uF => 33uF/50V - 10uF => 22uF/63V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "0,47uF => 10uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF/50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "C0805"; UniqueID = "\NZNYEUAI" ("\NZNYEUAI")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Polarized Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RB7.6-15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF/16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RESC2012(0805)"; UniqueID = "\OVXETQWZ" ("\OVXETQWZ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC2012(0805)"; UniqueID = "\ZRJYIJMS" ("\ZRJYIJMS")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "RESC2012(0805)"; UniqueID = "\SMCCAZRH" ("\SMCCAZRH")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC2012(0805)"; UniqueID = "\JJPGYZRS" ("\JJPGYZRS")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R5" ("R5"); Footprint = "RESC2012(0805)"; UniqueID = "\XGZZVVAL" ("\XGZZVVAL")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "RESC2012(0805)"; UniqueID = "\DGNHBLGK" ("\DGNHBLGK")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RESC2012(0805)"; UniqueID = "\GQZSVCCG" ("\GQZSVCCG")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "RESC2012(0805)"; UniqueID = "\VOYUJVUJ" ("\VOYUJVUJ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "RESC2012(0805)"; UniqueID = "\VIDKCAZR" ("\VIDKCAZR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "RESC2012(0805)"; UniqueID = "\WQVSSMWU" ("\WQVSSMWU")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13" ("R13"); Footprint = "CFR1WS"; UniqueID = "\NGNJUUGL" ("\NGNJUUGL")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220R/1W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "CFR1WS"; UniqueID = "\TQBYJIJG" ("\TQBYJIJG")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220R/1W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R15" ("R15"); Footprint = "R2WD"; UniqueID = "\UWBVNHLZ" ("\UWBVNHLZ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3R/2W"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R16" ("R16"); Footprint = "RES 1/4W CFR25"; UniqueID = "\JIXLFFDX" ("\JIXLFFDX")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2K2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17" ("R17"); Footprint = "RES 1/4W CFR25"; UniqueID = "\MYFGOOXI" ("\MYFGOOXI")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "330R"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=26VDC New Net Name=NetC16_1
+Change Class Name : Old Net Name=QuangNgai-UM18 New Net Name=Mach dieu khien tu xa
+Added Room: Name=Mach dieu khien tu xa

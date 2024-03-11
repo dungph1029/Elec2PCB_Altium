@@ -1,0 +1,39 @@
+Altium Designer Pick and Place Locations
+C:\Users\Admin\Desktop\Layout\KhoaSoDienTu\Project Outputs for KhoaSoDienTu\Pick Place for KhoaSoDienTu.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/07/23
+Time:       10:14
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation"
+"LCD1","TopLayer","LCD16x2","55.3680","66.0340","0"
+"C5","TopLayer","Tu_gom_104","52.7000","10.9300","90"
+"C6","TopLayer","Tu_gom_104","27.0510","36.9570","270"
+"C1","TopLayer","Tu_gom_104","85.2170","32.7660","0"
+"VR1","TopLayer","VR1","11.0490","73.0250","270"
+"U1","TopLayer","MSP430G2553","82.6770","39.7510","180"
+"R7","TopLayer","RES_1/4W_CFR25","37.0500","35.7000","180"
+"R6","TopLayer","RES_1/4W_CFR25","52.1970","18.9230","180"
+"R5","TopLayer","RES_1/4W_CFR25","87.7570","16.5100","0"
+"R4","TopLayer","RES_1/4W_CFR25","58.2500","28.3000","180"
+"R3","TopLayer","RES_1/4W_CFR25","87.7500","12.2016","180"
+"R2","TopLayer","RES_1/4W_CFR25","65.2780","86.6140","0"
+"R1","TopLayer","RES_1/4W_CFR25","85.9790","29.0830","0"
+"Q2","TopLayer","2SC1815","98.5520","13.9700","90"
+"Q1","TopLayer","2SC1815","48.3870","25.7810","90"
+"LS1","TopLayer","SPEAKER","37.5920","25.4000","270"
+"LED2","TopLayer","LED3R","46.6090","35.8140","0"
+"LED1","TopLayer","LED3G","62.6110","18.9230","0"
+"JP3","TopLayer","CON2","21.8440","10.4383","90"
+"JP2","TopLayer","Header_4","99.8000","39.7900","270"
+"JP1","TopLayer","Header_8","78.7400","23.6220","0"
+"IC1","TopLayer","AMS1117-3.3V","36.8300","10.5410","90"
+"HD1","TopLayer","Header_3","85.9790","7.6200","180"
+"C4","TopLayer","CAP_22UF_16V","22.3520","36.6870","90"
+"C3","TopLayer","CAP_470UF_25V","24.3440","26.0000","0"
+"C2","TopLayer","CAP_470UF_16V","45.7200","10.4420","270"
